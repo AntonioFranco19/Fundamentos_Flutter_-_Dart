@@ -1,5 +1,5 @@
 class Sesion1 {
-  void Leccion01() {
+  void Leccion01_interpolaciones_y_constantes() {
     print('Hola Mundo!');
     //var myName = 'Antonio';
     final myName = 'Antonio'; //Es una constante en tiempo de ejecucion, ya no se puede modificar más
